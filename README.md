@@ -8,3 +8,5 @@
 * the integer array and return a HugeInteger object.  
 * Sanyukta Praksh Mudknnavar   
 */
+
+HugeIntegerSM2_Tester : is driver program to test the main program HugeInteger_SM2
