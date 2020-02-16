@@ -9,4 +9,4 @@
 * Sanyukta Praksh Mudknnavar   
 */
 
-HugeIntegerSM2_Tester : is driver program to test the main program HugeInteger_SM2
+HugeIntegerSM2_Tester : is driver program to test the main CLASS HugeInteger_SM2
